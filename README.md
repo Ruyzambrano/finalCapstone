@@ -41,6 +41,6 @@
 
 ### Credits
 
-##### Created by ** Ruy Zambrano **
+##### Created by __Ruy Zambrano__
 
 ### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

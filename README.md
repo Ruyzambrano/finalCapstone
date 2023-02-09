@@ -21,7 +21,9 @@
 
 ### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-### Prerequisites
+### Installation and Running
+
+#### Prerequisites
 ##### The following libraries must be installed for this programme to run:
 
 * tabulate
@@ -36,6 +38,9 @@
 
 ##### To run the programme, execute the following command in the terminal:
 > python shoes.py
+
+##### When run, the programme will bring up a menu
+![menu] (
 
 ### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

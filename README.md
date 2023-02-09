@@ -2,15 +2,15 @@
 
 ### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-## Contents
-### About the Project
-### Installation
-### How to use the project
-### Credits
+##### Contents
+##### About the Project
+##### Installation
+##### How to use the project
+##### Credits
 
 ### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-## About the project
+### About the project
 
 ###### Created using Python, this programme is designed to manage a shoe 
 ###### inventory by storing and displaying information about different shoes 
@@ -19,28 +19,28 @@
 ###### the capture of shoe data and updating the inventory.txt file with the 
 ###### new data. The user can also search for shoes based on their cost or quantity.
 
-###~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-## Prerequisites
-### The following libraries must be installed for this programme to run:
+### Prerequisites
+##### The following libraries must be installed for this programme to run:
 
 * tabulate
 * termcolor
 
-### You can install these libraries by using the following command:
+##### You can install these libraries by using the following command:
 > pip install tabulate termcolor
 
 ### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-## How to use the project
+### How to use the project
 
-### To run the programme, execute the following command in the terminal:
+##### To run the programme, execute the following command in the terminal:
 > python shoes.py
 
 ### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-## Credits
+### Credits
 
-### Created by Ruy Zambrano
+##### Created by Ruy Zambrano
 
 ### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

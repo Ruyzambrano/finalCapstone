@@ -39,8 +39,9 @@
 ##### To run the programme, execute the following command in the terminal:
 > python shoes.py
 
-##### When run, the programme will bring up a menu
-![menu] (
+##### When run, the programme will bring up a menu with 6 options:
+! [menu image] (https://user-images.githubusercontent.com/111122180/217758757-77a87243-607c-4fad-baa7-07cc22fb2b2b.png)
+
 
 ### ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

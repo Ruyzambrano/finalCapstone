@@ -40,7 +40,7 @@
 > python shoes.py
 
 ##### When run, the programme will bring up a menu with 6 options:
-! [menu image](https://user-images.githubusercontent.com/111122180/217758757-77a87243-607c-4fad-baa7-07cc22fb2b2b.png)
+![menu image](https://user-images.githubusercontent.com/111122180/217758757-77a87243-607c-4fad-baa7-07cc22fb2b2b.png)
 
 ##### If the user chooses option 1, the programme will display all shoes and stats in a table:
 ![a table displaying all shoes and stats](https://user-images.githubusercontent.com/111122180/217758722-70c5b849-224f-4573-9d36-a72ef7164714.png)
